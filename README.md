@@ -10,7 +10,6 @@ Hi! CryptoTracker app the use of MVI Architectural Pattern And Clean Architectur
 | 💉 DI                | [Dagger-Hilt](https://developer.android.com/training/dependency-injection/hilt-android)                        |             |
 | :floppy_disk: Local Database      | [Room Database](https://developer.android.com/topic/libraries/architecture/room)                   |
 | :compass: Navigation       | [Compose Destinations Navigation](https://developer.android.com/jetpack/compose/navigation) |
-| :building_construction: Persistent Background Work  | [AlarmManager](https://developer.android.com/reference/android/app/AlarmManager) |
 | :thread: Asynchronous Work     | [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)|
 <br>
 
