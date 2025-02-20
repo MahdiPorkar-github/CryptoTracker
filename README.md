@@ -15,7 +15,6 @@ Hi! CryptoTracker app the use of MVI Architectural Pattern And Clean Architectur
 
 ## 🚀 Features
 - **➕ View list of Crypto Coins and see detailed chart for each one in details screen**
-- **🔔 Notifications:** Receive notifications at the time you set for the routine
 - **🌗 Dark/Light Mode:** Toggle between dark and light themes
 - **🎨 Dynamic Color:** Enable or disable dynamic color settings
 ## Demo
